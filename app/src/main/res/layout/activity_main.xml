@@ -25,8 +25,8 @@
         android:gravity="center"
         android:onClick="Glow"
         android:text="@string/title"
-        android:textColor="#3C3F41"
-        android:textSize="40sp" />
+        android:textSize="40sp"
+        android:textColor="#3C3F41" />
 
 </RelativeLayout>
 
